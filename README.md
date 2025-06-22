@@ -46,12 +46,18 @@ This project is a **Java implementation of a Binary Search Tree (BST)** that inc
 ## 📊 Sample Output (Illustrative)
 
 postorder traversal: 3 9 15 12 8 7 11 6 10 14
+
 imbalanced nodes: 10 12
+
 imbalanced nodes: (none after rebalancing)
 
+
 inorder traversal: 3 6 7 8 9 10 11 12 14 15
+
 preorder traversal: 10 7 6 3 8 9 12 11 14 15
+
 postorder traversal: 3 6 9 8 7 11 15 14 12 10
+
 
 Height of a tree: 3
 
